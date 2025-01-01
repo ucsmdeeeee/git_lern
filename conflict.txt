@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Line from develop
+=======
+Line from conflict-test
+>>>>>>> feature/conflict-test
